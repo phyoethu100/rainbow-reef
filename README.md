@@ -29,11 +29,11 @@ The player has four lives and once the player loses all lives, he/she will lose 
 SCORES:
 The player will earn the points based on the blocks that got hit. 
 Red block - 100 points
+Light blue block - 200 points
 Blue block - 300 points
 Green block - 400 points
-Light blue block - 200 points
 Yellow block - 500 points
 Orange block - 600 points
 Purple block - 700 points
-BigLegs (or spaceships) - 1000 points 
+BigLegs (spaceships) - 1000 points 
 
