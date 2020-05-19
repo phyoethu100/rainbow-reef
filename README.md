@@ -27,13 +27,13 @@ There are two power-ups that can give extra Pop and extra life. Energy/power tub
 The player has four lives and once the player loses all lives, he/she will lose the game and “Game Over” will pop up on the screen and once the player reaches level 2 and hits all three BigLegs (or three spaceships), then he/she will win the game and "Congratulations" will display on the screen.
 
 SCORES:
-The player will earn the points based on the blocks that got hit. 
-  Red block - 100 points
-  Light blue block - 200 points
-  Blue block - 300 points
-  Green block - 400 points
-  Yellow block - 500 points
-  Orange block - 600 points
-  Purple block - 700 points
+The player will earn the points based on the blocks that got hit.\ 
+  Red block - 100 points\
+  Light blue block - 200 points\
+  Blue block - 300 points\
+  Green block - 400 points\
+  Yellow block - 500 points\
+  Orange block - 600 points\
+  Purple block - 700 points\
   BigLegs (spaceships) - 1000 points 
 
